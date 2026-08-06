@@ -24,7 +24,7 @@ Documentos legais de **Bunker Rush** (`com.bunkerrush.game`) — publicados via 
 ## Antes de publicar o app — confira
 
 - [ ] Os flags de feature em `games.json` batem com o que o app **realmente faz**
-      (hoje: `local_ranking, crash_reports`). Data Safety divergente do comportamento real é a causa
+      (hoje: `local_ranking, crash_reports, analytics`). Data Safety divergente do comportamento real é a causa
       nº 1 de remoção da Play.
 - [ ] Se o jogo tem **fantasma**, a opção de desativar existe de fato em
       Configurações → Privacidade. A política promete isso.
